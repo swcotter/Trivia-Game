@@ -9,13 +9,13 @@ var questions = [
     {
         question: 'Dennis is asshole, why charlie hate?',
         answers: ["Because Dennis is rude to everyone", "Because Dennis got Charlie beat up by the Philly Fanatic", "Because Dennis slept with the waitress", "Because Dennis is a bastard man"],
-        answer: "Because Dennis is asshole",
+        answer: "Because Dennis is a bastard man",
         gifs: '<iframe width="560" height="315" src="https://www.youtube.com/embed/2utk-uiaZlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     },
     {
         question: "According to Dennis, what does the D in The D.E.N.N.I.S System stand for?",
         answers: ["Determine your worth", "Date one woman at a time", "Deomonstrate your value", "Dominate"],
-        answer: "Deomstrate your value",
+        answer: "Deomonstrate your value",
         gifs: '<iframe src="https://giphy.com/embed/6MhFm3LXoVQn6" width="480" height="451" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/its-always-sunny-in-philadelphia-6MhFm3LXoVQn6">via GIPHY</a></p>'
     },
     {
